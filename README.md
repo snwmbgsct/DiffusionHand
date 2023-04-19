@@ -7,12 +7,12 @@ Training and evaluation codes for 3D pose to Point Cloud task are provided. For 
 I propose a pipeline to reconstruct a hand point cloud from a single RGB image, where we first estimate the 3D pose, then use it to reconstruct the point cloud.
 
 ## Pipeline
-![Pipeline](./assets/pipeline.pdf)
+![Pipeline](./assets/pipeline.png)
 
 ## Experiment and results
-![RGB-Pose](./assets/R2P.pdf)
+![RGB-Pose](./assets/R2P.png)
 
-![Pose-Point cloud](./assets/P2PCL.pdf)
+![Pose-Point cloud](./assets/P2PCL.png)
 
 ## Contribution 
 My contribution is utilizing the diffusion model for hand point cloud reconstruciton.
