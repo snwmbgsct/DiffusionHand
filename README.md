@@ -15,7 +15,7 @@ I propose a pipeline to reconstruct a hand point cloud from a single RGB image, 
 ![Pose-Point cloud](./assets/P2PCL.png)
 
 ## Contribution 
-My contribution is utilizing the diffusion model for hand point cloud reconstruciton.
+My contribution is utilizing the diffusion model for hand point cloud reconstruciton from 3D pose.
 
 ## Acknowledgement
 Express my sincere gratitude to TA [Yang Linlin ](https://www.mu4yang.com/) for his invaluable guidance and exceptional support throughout my project.
